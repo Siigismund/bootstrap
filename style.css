@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+.btn{
+    background-color: green;
+    border-color: greenyellow;
+    border-radius: 0%;
+}
